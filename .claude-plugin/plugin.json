@@ -1,0 +1,7 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.0",
+  "description": "One-click rewrite of a rough draft prompt into a clear, specific one before you send it",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
